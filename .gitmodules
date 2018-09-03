@@ -1,0 +1,6 @@
+[submodule "Minesweeper"]
+	path = Minesweeper
+	url = https://github.com/jonayerdi/Minesweeper.git
+[submodule "SpaceInvaders"]
+	path = SpaceInvaders
+	url = https://github.com/jonayerdi/SpaceInvaders.git
