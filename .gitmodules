@@ -4,3 +4,6 @@
 [submodule "SpaceInvaders"]
 	path = SpaceInvaders
 	url = https://github.com/jonayerdi/SpaceInvaders.git
+[submodule "CarSimulator"]
+	path = CarSimulator
+	url = https://github.com/jonayerdi/CarSimulator.git
