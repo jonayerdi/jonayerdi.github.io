@@ -7,3 +7,6 @@
 [submodule "CarSimulator"]
 	path = CarSimulator
 	url = https://github.com/jonayerdi/CarSimulator.git
+[submodule "Snake"]
+	path = Snake
+	url = https://github.com/jonayerdi/Snake.git
